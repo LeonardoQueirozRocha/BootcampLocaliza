@@ -1,0 +1,16 @@
+C:\workspace\PrimeiroPassosDotNet\EstruturaDoPrograma\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.exe
+C:\workspace\PrimeiroPassosDotNet\EstruturaDoPrograma\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.deps.json
+C:\workspace\PrimeiroPassosDotNet\EstruturaDoPrograma\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.json
+C:\workspace\PrimeiroPassosDotNet\EstruturaDoPrograma\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\workspace\PrimeiroPassosDotNet\EstruturaDoPrograma\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.dll
+C:\workspace\PrimeiroPassosDotNet\EstruturaDoPrograma\EstruturaDoPrograma\bin\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\workspace\PrimeiroPassosDotNet\EstruturaDoPrograma\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\workspace\PrimeiroPassosDotNet\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csprojAssemblyReference.cache
+C:\workspace\PrimeiroPassosDotNet\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\PrimeiroPassosDotNet\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\workspace\PrimeiroPassosDotNet\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfo.cs
+C:\workspace\PrimeiroPassosDotNet\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\workspace\PrimeiroPassosDotNet\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.dll
+C:\workspace\PrimeiroPassosDotNet\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\workspace\PrimeiroPassosDotNet\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\workspace\PrimeiroPassosDotNet\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.genruntimeconfig.cache
