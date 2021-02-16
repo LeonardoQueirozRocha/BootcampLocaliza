@@ -1,0 +1,16 @@
+C:\workspace\PrimeiroPassosDotNet\DIOBank\bin\Debug\net5.0\DIOBank.exe
+C:\workspace\PrimeiroPassosDotNet\DIOBank\bin\Debug\net5.0\DIOBank.deps.json
+C:\workspace\PrimeiroPassosDotNet\DIOBank\bin\Debug\net5.0\DIOBank.runtimeconfig.json
+C:\workspace\PrimeiroPassosDotNet\DIOBank\bin\Debug\net5.0\DIOBank.runtimeconfig.dev.json
+C:\workspace\PrimeiroPassosDotNet\DIOBank\bin\Debug\net5.0\DIOBank.dll
+C:\workspace\PrimeiroPassosDotNet\DIOBank\bin\Debug\net5.0\ref\DIOBank.dll
+C:\workspace\PrimeiroPassosDotNet\DIOBank\bin\Debug\net5.0\DIOBank.pdb
+C:\workspace\PrimeiroPassosDotNet\DIOBank\obj\Debug\net5.0\DIOBank.csprojAssemblyReference.cache
+C:\workspace\PrimeiroPassosDotNet\DIOBank\obj\Debug\net5.0\DIOBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\PrimeiroPassosDotNet\DIOBank\obj\Debug\net5.0\DIOBank.AssemblyInfoInputs.cache
+C:\workspace\PrimeiroPassosDotNet\DIOBank\obj\Debug\net5.0\DIOBank.AssemblyInfo.cs
+C:\workspace\PrimeiroPassosDotNet\DIOBank\obj\Debug\net5.0\DIOBank.csproj.CoreCompileInputs.cache
+C:\workspace\PrimeiroPassosDotNet\DIOBank\obj\Debug\net5.0\DIOBank.dll
+C:\workspace\PrimeiroPassosDotNet\DIOBank\obj\Debug\net5.0\ref\DIOBank.dll
+C:\workspace\PrimeiroPassosDotNet\DIOBank\obj\Debug\net5.0\DIOBank.pdb
+C:\workspace\PrimeiroPassosDotNet\DIOBank\obj\Debug\net5.0\DIOBank.genruntimeconfig.cache

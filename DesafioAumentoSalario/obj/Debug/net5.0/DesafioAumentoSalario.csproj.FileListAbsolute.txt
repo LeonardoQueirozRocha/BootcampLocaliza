@@ -1,0 +1,16 @@
+C:\workspace\PrimeiroPassosDotNet\DesafioAumentoSalario\bin\Debug\net5.0\DesafioAumentoSalario.exe
+C:\workspace\PrimeiroPassosDotNet\DesafioAumentoSalario\bin\Debug\net5.0\DesafioAumentoSalario.deps.json
+C:\workspace\PrimeiroPassosDotNet\DesafioAumentoSalario\bin\Debug\net5.0\DesafioAumentoSalario.runtimeconfig.json
+C:\workspace\PrimeiroPassosDotNet\DesafioAumentoSalario\bin\Debug\net5.0\DesafioAumentoSalario.runtimeconfig.dev.json
+C:\workspace\PrimeiroPassosDotNet\DesafioAumentoSalario\bin\Debug\net5.0\DesafioAumentoSalario.dll
+C:\workspace\PrimeiroPassosDotNet\DesafioAumentoSalario\bin\Debug\net5.0\ref\DesafioAumentoSalario.dll
+C:\workspace\PrimeiroPassosDotNet\DesafioAumentoSalario\bin\Debug\net5.0\DesafioAumentoSalario.pdb
+C:\workspace\PrimeiroPassosDotNet\DesafioAumentoSalario\obj\Debug\net5.0\DesafioAumentoSalario.csprojAssemblyReference.cache
+C:\workspace\PrimeiroPassosDotNet\DesafioAumentoSalario\obj\Debug\net5.0\DesafioAumentoSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\PrimeiroPassosDotNet\DesafioAumentoSalario\obj\Debug\net5.0\DesafioAumentoSalario.AssemblyInfoInputs.cache
+C:\workspace\PrimeiroPassosDotNet\DesafioAumentoSalario\obj\Debug\net5.0\DesafioAumentoSalario.AssemblyInfo.cs
+C:\workspace\PrimeiroPassosDotNet\DesafioAumentoSalario\obj\Debug\net5.0\DesafioAumentoSalario.csproj.CoreCompileInputs.cache
+C:\workspace\PrimeiroPassosDotNet\DesafioAumentoSalario\obj\Debug\net5.0\DesafioAumentoSalario.dll
+C:\workspace\PrimeiroPassosDotNet\DesafioAumentoSalario\obj\Debug\net5.0\ref\DesafioAumentoSalario.dll
+C:\workspace\PrimeiroPassosDotNet\DesafioAumentoSalario\obj\Debug\net5.0\DesafioAumentoSalario.pdb
+C:\workspace\PrimeiroPassosDotNet\DesafioAumentoSalario\obj\Debug\net5.0\DesafioAumentoSalario.genruntimeconfig.cache
