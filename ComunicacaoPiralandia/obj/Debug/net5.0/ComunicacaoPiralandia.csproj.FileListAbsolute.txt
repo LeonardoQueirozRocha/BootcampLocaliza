@@ -1,0 +1,16 @@
+C:\workspace\PrimeiroPassosDotNet\ComunicacaoPiralandia\bin\Debug\net5.0\ComunicacaoPiralandia.exe
+C:\workspace\PrimeiroPassosDotNet\ComunicacaoPiralandia\bin\Debug\net5.0\ComunicacaoPiralandia.deps.json
+C:\workspace\PrimeiroPassosDotNet\ComunicacaoPiralandia\bin\Debug\net5.0\ComunicacaoPiralandia.runtimeconfig.json
+C:\workspace\PrimeiroPassosDotNet\ComunicacaoPiralandia\bin\Debug\net5.0\ComunicacaoPiralandia.runtimeconfig.dev.json
+C:\workspace\PrimeiroPassosDotNet\ComunicacaoPiralandia\bin\Debug\net5.0\ComunicacaoPiralandia.dll
+C:\workspace\PrimeiroPassosDotNet\ComunicacaoPiralandia\bin\Debug\net5.0\ref\ComunicacaoPiralandia.dll
+C:\workspace\PrimeiroPassosDotNet\ComunicacaoPiralandia\bin\Debug\net5.0\ComunicacaoPiralandia.pdb
+C:\workspace\PrimeiroPassosDotNet\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.csprojAssemblyReference.cache
+C:\workspace\PrimeiroPassosDotNet\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\PrimeiroPassosDotNet\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.AssemblyInfoInputs.cache
+C:\workspace\PrimeiroPassosDotNet\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.AssemblyInfo.cs
+C:\workspace\PrimeiroPassosDotNet\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.csproj.CoreCompileInputs.cache
+C:\workspace\PrimeiroPassosDotNet\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.dll
+C:\workspace\PrimeiroPassosDotNet\ComunicacaoPiralandia\obj\Debug\net5.0\ref\ComunicacaoPiralandia.dll
+C:\workspace\PrimeiroPassosDotNet\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.pdb
+C:\workspace\PrimeiroPassosDotNet\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.genruntimeconfig.cache

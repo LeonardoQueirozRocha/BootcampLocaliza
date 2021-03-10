@@ -1,0 +1,16 @@
+C:\workspace\PrimeiroPassosDotNet\DesafioCrecimentoPopulacional\bin\Debug\net5.0\DesafioCrecimentoPopulacional.exe
+C:\workspace\PrimeiroPassosDotNet\DesafioCrecimentoPopulacional\bin\Debug\net5.0\DesafioCrecimentoPopulacional.deps.json
+C:\workspace\PrimeiroPassosDotNet\DesafioCrecimentoPopulacional\bin\Debug\net5.0\DesafioCrecimentoPopulacional.runtimeconfig.json
+C:\workspace\PrimeiroPassosDotNet\DesafioCrecimentoPopulacional\bin\Debug\net5.0\DesafioCrecimentoPopulacional.runtimeconfig.dev.json
+C:\workspace\PrimeiroPassosDotNet\DesafioCrecimentoPopulacional\bin\Debug\net5.0\DesafioCrecimentoPopulacional.dll
+C:\workspace\PrimeiroPassosDotNet\DesafioCrecimentoPopulacional\bin\Debug\net5.0\ref\DesafioCrecimentoPopulacional.dll
+C:\workspace\PrimeiroPassosDotNet\DesafioCrecimentoPopulacional\bin\Debug\net5.0\DesafioCrecimentoPopulacional.pdb
+C:\workspace\PrimeiroPassosDotNet\DesafioCrecimentoPopulacional\obj\Debug\net5.0\DesafioCrecimentoPopulacional.csprojAssemblyReference.cache
+C:\workspace\PrimeiroPassosDotNet\DesafioCrecimentoPopulacional\obj\Debug\net5.0\DesafioCrecimentoPopulacional.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\PrimeiroPassosDotNet\DesafioCrecimentoPopulacional\obj\Debug\net5.0\DesafioCrecimentoPopulacional.AssemblyInfoInputs.cache
+C:\workspace\PrimeiroPassosDotNet\DesafioCrecimentoPopulacional\obj\Debug\net5.0\DesafioCrecimentoPopulacional.AssemblyInfo.cs
+C:\workspace\PrimeiroPassosDotNet\DesafioCrecimentoPopulacional\obj\Debug\net5.0\DesafioCrecimentoPopulacional.csproj.CoreCompileInputs.cache
+C:\workspace\PrimeiroPassosDotNet\DesafioCrecimentoPopulacional\obj\Debug\net5.0\DesafioCrecimentoPopulacional.dll
+C:\workspace\PrimeiroPassosDotNet\DesafioCrecimentoPopulacional\obj\Debug\net5.0\ref\DesafioCrecimentoPopulacional.dll
+C:\workspace\PrimeiroPassosDotNet\DesafioCrecimentoPopulacional\obj\Debug\net5.0\DesafioCrecimentoPopulacional.pdb
+C:\workspace\PrimeiroPassosDotNet\DesafioCrecimentoPopulacional\obj\Debug\net5.0\DesafioCrecimentoPopulacional.genruntimeconfig.cache

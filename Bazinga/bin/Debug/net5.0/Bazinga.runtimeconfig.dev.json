@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\LeonardoQR\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\LeonardoQR\\.nuget\\packages"
+    ]
+  }
+}
